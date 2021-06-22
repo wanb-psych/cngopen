@@ -4,6 +4,6 @@ You will find out posters here and a link to our jitsi where you can find us her
 
 Posters:
 
-
+1328: Asymmetry of large-scale functional organization: heritable and phylogenetic profiles (Wan et al.)
 2150: A low-dimensional connectome manifold governs the organization and plasticity of social brain functions in humans (Valk et al.)
 
